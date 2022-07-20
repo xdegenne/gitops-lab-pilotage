@@ -1,6 +1,0 @@
-applicationName: app6
-git:
-  url: https://github.com/xdegenne/gitops-lab-source-app1.git
-  tag: instance6
-  directory: /
-status: init
