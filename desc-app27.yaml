@@ -1,0 +1,6 @@
+applicationName: app27
+git:
+  url: https://github.com/xdegenne/gitops-lab-target.git
+  tag: main
+  directory: app27
+status: init
