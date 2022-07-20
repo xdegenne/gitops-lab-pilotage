@@ -1,0 +1,6 @@
+applicationName: app10
+git:
+  url: https://github.com/xdegenne/gitops-lab-target.git
+  tag: master
+  directory: app9
+status: init
