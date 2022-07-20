@@ -1,0 +1,6 @@
+applicationName: app15
+git:
+  url: https://github.com/xdegenne/gitops-lab-target.git
+  tag: master
+  directory: app15
+status: init
