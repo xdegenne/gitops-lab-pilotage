@@ -1,0 +1,6 @@
+applicationName: app20
+git:
+  url: https://github.com/xdegenne/gitops-lab-source-app1.git
+  tag: app20
+  directory: /
+status: init
