@@ -1,6 +1,6 @@
 id: ca4f9de2-4ed8-4cbb-bf92-569a9a5bc853
 name: app30
-state: 0
+state: 1
 src:
     url: git@github.com:xdegenne/gitops-lab-source-app1.git
     path: ""
