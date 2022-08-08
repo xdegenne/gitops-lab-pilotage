@@ -1,0 +1,11 @@
+id: 2e488f28-936b-4e72-86bd-99fbd81453dd
+name: app31
+state: 0
+src:
+    url: git@github.com:xdegenne/gitops-lab-source-app1.git
+    path: ""
+    tag: ""
+tgt:
+    url: git@github.com:xdegenne/gitops-lab-target.git
+    path: app31
+    tag: ""
